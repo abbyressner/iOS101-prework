@@ -2,7 +2,7 @@
 
 Submitted by: **Abigail (Abby) Ressner**
 
-**Name of your app** is an app that was built for the purpose of getting familiar with Xcode.
+**Xcode Exploration** is an app that was built for the purpose of getting familiar with Xcode.
 
 Time spent: **1** hour spent in total
 
@@ -15,26 +15,29 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-https://www.loom.com/share/b197a3cca8a14b7b8bec7495d5249b27?sid=d79b5611-4e3a-4588-be31-acff71a614f2
+![image](https://github.com/user-attachments/assets/b68a62f3-a047-4c27-a9ce-0df97dd3da48)
+
 
 ## App Brainstorming (Step 4)
 
-## Notes
+I'd like to build an iOS app that helps people track both medications and supplements—especially those managing chronic health conditions who often take a mix of both. The app would include features like daily reminders with AM/PM timing, low supply notifications, and a monthly refill checklist with checkboxes for each item. Users could log when they started a supplement, track how consistently they've taken it, and see a history of past doses. Another key feature would be a customizable "Favorites" section, where users can save trusted products with details like brand, dosage, count, and links to reorder. The goal is to make health management more organized and less stressful.
 
-Describe any challenges encountered while building the app.
+1. **Notion**
+   - Flexible block-based editing for text, images, and databases  
+   - Seamless syncing across devices  
+   - Ability to link pages and organize content visually  
 
-## License
+2. **Duolingo**
+   - Gamified learning with streaks and rewards  
+   - Bite-sized, interactive lessons that feel manageable  
+   - Friendly, colorful design that makes daily use enjoyable  
 
-    Copyright [yyyy] [name of copyright owner]
+3. **Spotify**
+   - Personalized playlists like Discover Weekly and Daily Mix  
+   - Offline listening for downloaded music  
+   - Smooth integration across multiple devices (phone, laptop, speaker)  
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+4. **Apple Health**
+   - Centralized dashboard for multiple types of health data  
+   - Visual trends and summaries (e.g., sleep, steps, heart rate)  
+   - Automatic syncing with wearables and health apps  
